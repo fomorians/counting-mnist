@@ -6,6 +6,8 @@ A simple synthetic dataset and baseline model for visual counting. The task is t
 
 ![Sample](images/sample.png)
 
+![Distribution](images/dist.png)
+
 ## Instructions
 
 1. Generate TFRecords:
