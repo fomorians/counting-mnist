@@ -1,0 +1,5 @@
+tensorflow-gpu==1.1.0
+Pillow==4.0.0
+scikit-image==0.12.3
+termcolor==1.1.0
+scipy==0.17.0
