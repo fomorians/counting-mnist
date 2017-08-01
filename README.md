@@ -22,7 +22,8 @@ python -m counting_mnist.main
 
 ## Results
 
-Accuracy | Model
-33.1% | Zeros
-12.5% | Uniform
-85.3% | Baseline
+| Accuracy | Model |
+| --- | --- |
+| 33.1% | Zeros |
+| 12.5% | Uniform |
+| 85.3% | Baseline |
