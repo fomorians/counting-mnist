@@ -22,8 +22,8 @@ python -m counting_mnist.main
 
 ## Results
 
-| Accuracy | Model |
+| Model | Accuracy |
 | --- | --- |
-| 33.1% | Zeros |
-| 12.5% | Uniform |
-| 85.3% | Baseline |
+| Always Predict Zero Even Digits | 33% |
+| Uniform Count Predictions | 12% |
+| **Baseline Model** | **85%** |
